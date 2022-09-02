@@ -1,0 +1,28 @@
+{
+  "name": "rocket-docs-theme-launch",
+  "version": "0.0.1",
+  "private": true,
+  "description": "A documentation page based on the @rocket/launch theme",
+  "type": "module",
+  "scripts": {
+    "build": "rocket build",
+    "dev": "npm start",
+    "preview": "rocket preview",
+    "start": "NODE_DEBUG=engine:rendering rocket start --open"
+  },
+  "devDependencies": {
+    "@rocket/cli": "^0.20.3",
+    "@rocket/engine": "^0.2.7",
+    "@rocket/launch": "^0.21.2",
+    "@rocket/search": "^0.7.0",
+    "lit": "^2.3.1",
+    "@shoelace-style/shoelace": "^2.0.0-beta.81"
+  },
+  "@rocket/template-name": "Documentation Website (@rocket/launch Theme)",
+  "imports": {
+    "#src/*": "./site/src/*"
+  },
+  "dependencies": {
+    "@shoelace-style/shoelace": "^2.0.0-beta.81"
+  }
+}

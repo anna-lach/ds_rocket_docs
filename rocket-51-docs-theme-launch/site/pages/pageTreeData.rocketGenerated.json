@@ -1,0 +1,806 @@
+{
+  "title": "Welcome to SL Design System",
+  "h1": "",
+  "name": "Welcome to SL Design System",
+  "menuLinkText": "Welcome to SL Design System",
+  "url": "/",
+  "outputRelativeFilePath": "index.html",
+  "sourceRelativeFilePath": "index.rocket.js",
+  "level": 0,
+  "components": {
+    "rocket-columns": "@rocket/components/columns.js::RocketColumns",
+    "rocket-card": "@rocket/components/card.js::RocketCard",
+    "rocket-content-area": "@rocket/components/content-area.js::RocketContentArea",
+    "rocket-details": "@rocket/components/details.js::RocketDetails",
+    "rocket-drawer": "@rocket/components/drawer.js::RocketDrawer",
+    "rocket-feature-small": "@rocket/components/feature-small.js::RocketFeatureSmall",
+    "rocket-header": "@rocket/components/header.js::RocketHeader",
+    "rocket-header-scroll-menu": "@rocket/components/header-scroll-menu.js::RocketHeaderScrollMenu",
+    "rocket-icon": "@rocket/components/icon.js::RocketIcon",
+    "rocket-icon-card": "@rocket/components/icon-card.js::RocketIconCard",
+    "rocket-main": "@rocket/components/main.js::RocketMain",
+    "rocket-main-docs": "@rocket/components/main-docs.js::RocketMainDocs",
+    "rocket-opengraph-overview": "@rocket/components/open-graph-overview.js::RocketOpenGraphOverview",
+    "rocket-rotating-text": "@rocket/components/rotating-text.js::RocketRotatingText",
+    "rocket-social-link": "@rocket/components/social-link.js::RocketSocialLink",
+    "rocket-testimonial-small": "@rocket/components/testimonial-small.js::RocketTestimonialSmall",
+    "inline-notification": "@rocket/components/inline-notification.js::InlineNotification",
+    "permanent-notification": "@rocket/components/permanent-notification.js::PermanentNotification",
+    "rocket-search": "@rocket/search/search.js::RocketSearch",
+    "launch-home": "@rocket/launch/home.js::LaunchHome",
+    "launch-blog-overview": "@rocket/launch/blog-overview.js::LaunchBlogOverview",
+    "launch-blog-preview": "@rocket/launch/blog-preview.js::LaunchBlogPreview",
+    "launch-blog-details": "@rocket/launch/blog-details.js::LaunchBlogDetails",
+    "my-counter": "#src/components/MyCounter.js::MyCounter"
+  },
+  "description": "Rocket enables everyone to code a website. Use an existing theme or create your own. Be fast by server rendering web components with little to no JavaScript.",
+  "needsLoader": true,
+  "subTitle": "Everyone can code a website",
+  "children": [
+    {
+      "title": "Documentation | SL Design System",
+      "h1": "Documentation",
+      "headlinesWithId": [
+        {
+          "text": "Documentation",
+          "id": "documentation",
+          "level": 1
+        }
+      ],
+      "name": "Documentation",
+      "menuLinkText": "Docs",
+      "url": "/docs/",
+      "outputRelativeFilePath": "docs/index.html",
+      "sourceRelativeFilePath": "10--docs/index.rocket.md",
+      "level": 1,
+      "components": {
+        "rocket-columns": "@rocket/components/columns.js::RocketColumns",
+        "rocket-card": "@rocket/components/card.js::RocketCard",
+        "rocket-content-area": "@rocket/components/content-area.js::RocketContentArea",
+        "rocket-details": "@rocket/components/details.js::RocketDetails",
+        "rocket-drawer": "@rocket/components/drawer.js::RocketDrawer",
+        "rocket-feature-small": "@rocket/components/feature-small.js::RocketFeatureSmall",
+        "rocket-header": "@rocket/components/header.js::RocketHeader",
+        "rocket-header-scroll-menu": "@rocket/components/header-scroll-menu.js::RocketHeaderScrollMenu",
+        "rocket-icon": "@rocket/components/icon.js::RocketIcon",
+        "rocket-icon-card": "@rocket/components/icon-card.js::RocketIconCard",
+        "rocket-main": "@rocket/components/main.js::RocketMain",
+        "rocket-main-docs": "@rocket/components/main-docs.js::RocketMainDocs",
+        "rocket-opengraph-overview": "@rocket/components/open-graph-overview.js::RocketOpenGraphOverview",
+        "rocket-rotating-text": "@rocket/components/rotating-text.js::RocketRotatingText",
+        "rocket-social-link": "@rocket/components/social-link.js::RocketSocialLink",
+        "rocket-testimonial-small": "@rocket/components/testimonial-small.js::RocketTestimonialSmall",
+        "inline-notification": "@rocket/components/inline-notification.js::InlineNotification",
+        "permanent-notification": "@rocket/components/permanent-notification.js::PermanentNotification",
+        "rocket-search": "@rocket/search/search.js::RocketSearch",
+        "launch-home": "@rocket/launch/home.js::LaunchHome",
+        "launch-blog-overview": "@rocket/launch/blog-overview.js::LaunchBlogOverview",
+        "launch-blog-preview": "@rocket/launch/blog-preview.js::LaunchBlogPreview",
+        "launch-blog-details": "@rocket/launch/blog-details.js::LaunchBlogDetails",
+        "my-counter": "#src/components/MyCounter.js::MyCounter"
+      },
+      "needsLoader": true,
+      "subTitle": "From zero to hero",
+      "children": [
+        {
+          "title": "First Category | Rocket",
+          "h1": "First Category",
+          "name": "First Category",
+          "menuLinkText": "First Category",
+          "url": "/docs/first-category/",
+          "outputRelativeFilePath": "docs/first-category/index.html",
+          "sourceRelativeFilePath": "10--docs/10--first-category/index.rocket.js",
+          "level": 2,
+          "components": {
+            "rocket-columns": "@rocket/components/columns.js::RocketColumns",
+            "rocket-card": "@rocket/components/card.js::RocketCard",
+            "rocket-content-area": "@rocket/components/content-area.js::RocketContentArea",
+            "rocket-details": "@rocket/components/details.js::RocketDetails",
+            "rocket-drawer": "@rocket/components/drawer.js::RocketDrawer",
+            "rocket-feature-small": "@rocket/components/feature-small.js::RocketFeatureSmall",
+            "rocket-header": "@rocket/components/header.js::RocketHeader",
+            "rocket-header-scroll-menu": "@rocket/components/header-scroll-menu.js::RocketHeaderScrollMenu",
+            "rocket-icon": "@rocket/components/icon.js::RocketIcon",
+            "rocket-icon-card": "@rocket/components/icon-card.js::RocketIconCard",
+            "rocket-main": "@rocket/components/main.js::RocketMain",
+            "rocket-main-docs": "@rocket/components/main-docs.js::RocketMainDocs",
+            "rocket-opengraph-overview": "@rocket/components/open-graph-overview.js::RocketOpenGraphOverview",
+            "rocket-rotating-text": "@rocket/components/rotating-text.js::RocketRotatingText",
+            "rocket-social-link": "@rocket/components/social-link.js::RocketSocialLink",
+            "rocket-testimonial-small": "@rocket/components/testimonial-small.js::RocketTestimonialSmall",
+            "inline-notification": "@rocket/components/inline-notification.js::InlineNotification",
+            "permanent-notification": "@rocket/components/permanent-notification.js::PermanentNotification",
+            "rocket-search": "@rocket/search/search.js::RocketSearch",
+            "launch-home": "@rocket/launch/home.js::LaunchHome",
+            "launch-blog-overview": "@rocket/launch/blog-overview.js::LaunchBlogOverview",
+            "launch-blog-preview": "@rocket/launch/blog-preview.js::LaunchBlogPreview",
+            "launch-blog-details": "@rocket/launch/blog-details.js::LaunchBlogDetails",
+            "my-counter": "#src/components/MyCounter.js::MyCounter"
+          },
+          "menuNoLink": true,
+          "needsLoader": true,
+          "children": [
+            {
+              "title": "Getting started | SL Design System",
+              "h1": "Getting started",
+              "headlinesWithId": [
+                {
+                  "text": "Getting started",
+                  "id": "getting-started",
+                  "level": 1
+                }
+              ],
+              "name": "Getting started",
+              "menuLinkText": "Getting started",
+              "url": "/docs/first-category/getting-started/",
+              "outputRelativeFilePath": "docs/first-category/getting-started/index.html",
+              "sourceRelativeFilePath": "10--docs/10--first-category/10--getting-started.rocket.md",
+              "level": 3,
+              "components": {
+                "rocket-columns": "@rocket/components/columns.js::RocketColumns",
+                "rocket-card": "@rocket/components/card.js::RocketCard",
+                "rocket-content-area": "@rocket/components/content-area.js::RocketContentArea",
+                "rocket-details": "@rocket/components/details.js::RocketDetails",
+                "rocket-drawer": "@rocket/components/drawer.js::RocketDrawer",
+                "rocket-feature-small": "@rocket/components/feature-small.js::RocketFeatureSmall",
+                "rocket-header": "@rocket/components/header.js::RocketHeader",
+                "rocket-header-scroll-menu": "@rocket/components/header-scroll-menu.js::RocketHeaderScrollMenu",
+                "rocket-icon": "@rocket/components/icon.js::RocketIcon",
+                "rocket-icon-card": "@rocket/components/icon-card.js::RocketIconCard",
+                "rocket-main": "@rocket/components/main.js::RocketMain",
+                "rocket-main-docs": "@rocket/components/main-docs.js::RocketMainDocs",
+                "rocket-opengraph-overview": "@rocket/components/open-graph-overview.js::RocketOpenGraphOverview",
+                "rocket-rotating-text": "@rocket/components/rotating-text.js::RocketRotatingText",
+                "rocket-social-link": "@rocket/components/social-link.js::RocketSocialLink",
+                "rocket-testimonial-small": "@rocket/components/testimonial-small.js::RocketTestimonialSmall",
+                "inline-notification": "@rocket/components/inline-notification.js::InlineNotification",
+                "permanent-notification": "@rocket/components/permanent-notification.js::PermanentNotification",
+                "rocket-search": "@rocket/search/search.js::RocketSearch",
+                "launch-home": "@rocket/launch/home.js::LaunchHome",
+                "launch-blog-overview": "@rocket/launch/blog-overview.js::LaunchBlogOverview",
+                "launch-blog-preview": "@rocket/launch/blog-preview.js::LaunchBlogPreview",
+                "launch-blog-details": "@rocket/launch/blog-details.js::LaunchBlogDetails",
+                "my-counter": "#src/components/MyCounter.js::MyCounter"
+              },
+              "needsLoader": true,
+              "subTitle": "Create your first Rocket site"
+            }
+          ]
+        },
+        {
+          "title": "Getting Started | Rocket",
+          "h1": "Getting Started",
+          "headlinesWithId": [
+            {
+              "text": "Getting Started",
+              "id": "getting-started",
+              "level": 1
+            },
+            {
+              "text": "Design guidelines",
+              "id": "design-guidelines",
+              "level": 2
+            },
+            {
+              "text": "Accessibility",
+              "id": "accessibility",
+              "level": 3
+            }
+          ],
+          "name": "Getting Started",
+          "menuLinkText": "Getting started...",
+          "url": "/docs/getting-started/",
+          "outputRelativeFilePath": "docs/getting-started/index.html",
+          "sourceRelativeFilePath": "10--docs/20--getting-started/index.rocket.md",
+          "level": 2,
+          "components": {
+            "rocket-columns": "@rocket/components/columns.js::RocketColumns",
+            "rocket-card": "@rocket/components/card.js::RocketCard",
+            "rocket-content-area": "@rocket/components/content-area.js::RocketContentArea",
+            "rocket-details": "@rocket/components/details.js::RocketDetails",
+            "rocket-drawer": "@rocket/components/drawer.js::RocketDrawer",
+            "rocket-feature-small": "@rocket/components/feature-small.js::RocketFeatureSmall",
+            "rocket-header": "@rocket/components/header.js::RocketHeader",
+            "rocket-header-scroll-menu": "@rocket/components/header-scroll-menu.js::RocketHeaderScrollMenu",
+            "rocket-icon": "@rocket/components/icon.js::RocketIcon",
+            "rocket-icon-card": "@rocket/components/icon-card.js::RocketIconCard",
+            "rocket-main": "@rocket/components/main.js::RocketMain",
+            "rocket-main-docs": "@rocket/components/main-docs.js::RocketMainDocs",
+            "rocket-opengraph-overview": "@rocket/components/open-graph-overview.js::RocketOpenGraphOverview",
+            "rocket-rotating-text": "@rocket/components/rotating-text.js::RocketRotatingText",
+            "rocket-social-link": "@rocket/components/social-link.js::RocketSocialLink",
+            "rocket-testimonial-small": "@rocket/components/testimonial-small.js::RocketTestimonialSmall",
+            "inline-notification": "@rocket/components/inline-notification.js::InlineNotification",
+            "permanent-notification": "@rocket/components/permanent-notification.js::PermanentNotification",
+            "rocket-search": "@rocket/search/search.js::RocketSearch",
+            "launch-home": "@rocket/launch/home.js::LaunchHome",
+            "launch-blog-overview": "@rocket/launch/blog-overview.js::LaunchBlogOverview",
+            "launch-blog-preview": "@rocket/launch/blog-preview.js::LaunchBlogPreview",
+            "launch-blog-details": "@rocket/launch/blog-details.js::LaunchBlogDetails",
+            "my-counter": "#src/components/MyCounter.js::MyCounter"
+          },
+          "needsLoader": true,
+          "subTitle": "Welcome to the SL Design System...",
+          "children": [
+            {
+              "title": "About Design System | SL Design System",
+              "h1": "About Design System",
+              "headlinesWithId": [
+                {
+                  "text": "About Design System",
+                  "id": "about-design-system",
+                  "level": 1
+                },
+                {
+                  "text": "Design guidelines",
+                  "id": "design-guidelines",
+                  "level": 2
+                },
+                {
+                  "text": "Accessibility",
+                  "id": "accessibility",
+                  "level": 3
+                }
+              ],
+              "name": "About Design System",
+              "menuLinkText": "About DS...",
+              "url": "/docs/getting-started/about/",
+              "outputRelativeFilePath": "docs/getting-started/about/index.html",
+              "sourceRelativeFilePath": "10--docs/20--getting-started/10--about.rocket.md",
+              "level": 3,
+              "components": {
+                "rocket-columns": "@rocket/components/columns.js::RocketColumns",
+                "rocket-card": "@rocket/components/card.js::RocketCard",
+                "rocket-content-area": "@rocket/components/content-area.js::RocketContentArea",
+                "rocket-details": "@rocket/components/details.js::RocketDetails",
+                "rocket-drawer": "@rocket/components/drawer.js::RocketDrawer",
+                "rocket-feature-small": "@rocket/components/feature-small.js::RocketFeatureSmall",
+                "rocket-header": "@rocket/components/header.js::RocketHeader",
+                "rocket-header-scroll-menu": "@rocket/components/header-scroll-menu.js::RocketHeaderScrollMenu",
+                "rocket-icon": "@rocket/components/icon.js::RocketIcon",
+                "rocket-icon-card": "@rocket/components/icon-card.js::RocketIconCard",
+                "rocket-main": "@rocket/components/main.js::RocketMain",
+                "rocket-main-docs": "@rocket/components/main-docs.js::RocketMainDocs",
+                "rocket-opengraph-overview": "@rocket/components/open-graph-overview.js::RocketOpenGraphOverview",
+                "rocket-rotating-text": "@rocket/components/rotating-text.js::RocketRotatingText",
+                "rocket-social-link": "@rocket/components/social-link.js::RocketSocialLink",
+                "rocket-testimonial-small": "@rocket/components/testimonial-small.js::RocketTestimonialSmall",
+                "inline-notification": "@rocket/components/inline-notification.js::InlineNotification",
+                "permanent-notification": "@rocket/components/permanent-notification.js::PermanentNotification",
+                "rocket-search": "@rocket/search/search.js::RocketSearch",
+                "launch-home": "@rocket/launch/home.js::LaunchHome",
+                "launch-blog-overview": "@rocket/launch/blog-overview.js::LaunchBlogOverview",
+                "launch-blog-preview": "@rocket/launch/blog-preview.js::LaunchBlogPreview",
+                "launch-blog-details": "@rocket/launch/blog-details.js::LaunchBlogDetails",
+                "my-counter": "#src/components/MyCounter.js::MyCounter"
+              },
+              "needsLoader": true,
+              "subTitle": "Welcome to the SL Design System..."
+            }
+          ]
+        },
+        {
+          "title": "News | Rocket",
+          "h1": "News",
+          "name": "News",
+          "menuLinkText": "News",
+          "url": "/docs/what-is-new/",
+          "outputRelativeFilePath": "docs/what-is-new/index.html",
+          "sourceRelativeFilePath": "10--docs/30--what-is-new/index.rocket.js",
+          "level": 2,
+          "components": {
+            "rocket-columns": "@rocket/components/columns.js::RocketColumns",
+            "rocket-card": "@rocket/components/card.js::RocketCard",
+            "rocket-content-area": "@rocket/components/content-area.js::RocketContentArea",
+            "rocket-details": "@rocket/components/details.js::RocketDetails",
+            "rocket-drawer": "@rocket/components/drawer.js::RocketDrawer",
+            "rocket-feature-small": "@rocket/components/feature-small.js::RocketFeatureSmall",
+            "rocket-header": "@rocket/components/header.js::RocketHeader",
+            "rocket-header-scroll-menu": "@rocket/components/header-scroll-menu.js::RocketHeaderScrollMenu",
+            "rocket-icon": "@rocket/components/icon.js::RocketIcon",
+            "rocket-icon-card": "@rocket/components/icon-card.js::RocketIconCard",
+            "rocket-main": "@rocket/components/main.js::RocketMain",
+            "rocket-main-docs": "@rocket/components/main-docs.js::RocketMainDocs",
+            "rocket-opengraph-overview": "@rocket/components/open-graph-overview.js::RocketOpenGraphOverview",
+            "rocket-rotating-text": "@rocket/components/rotating-text.js::RocketRotatingText",
+            "rocket-social-link": "@rocket/components/social-link.js::RocketSocialLink",
+            "rocket-testimonial-small": "@rocket/components/testimonial-small.js::RocketTestimonialSmall",
+            "inline-notification": "@rocket/components/inline-notification.js::InlineNotification",
+            "permanent-notification": "@rocket/components/permanent-notification.js::PermanentNotification",
+            "rocket-search": "@rocket/search/search.js::RocketSearch",
+            "launch-home": "@rocket/launch/home.js::LaunchHome",
+            "launch-blog-overview": "@rocket/launch/blog-overview.js::LaunchBlogOverview",
+            "launch-blog-preview": "@rocket/launch/blog-preview.js::LaunchBlogPreview",
+            "launch-blog-details": "@rocket/launch/blog-details.js::LaunchBlogDetails",
+            "my-counter": "#src/components/MyCounter.js::MyCounter"
+          },
+          "menuNoLink": false,
+          "needsLoader": true,
+          "children": [
+            {
+              "title": "What is new | SL Design System",
+              "h1": "What is new",
+              "headlinesWithId": [
+                {
+                  "text": "What is new",
+                  "id": "what-is-new",
+                  "level": 1
+                },
+                {
+                  "text": "Latest articles",
+                  "id": "latest-articles",
+                  "level": 2
+                }
+              ],
+              "name": "What is new",
+              "menuLinkText": "What's new",
+              "url": "/docs/what-is-new/whats-new/",
+              "outputRelativeFilePath": "docs/what-is-new/whats-new/index.html",
+              "sourceRelativeFilePath": "10--docs/30--what-is-new/10--whats-new.rocket.md",
+              "level": 3,
+              "components": {
+                "rocket-columns": "@rocket/components/columns.js::RocketColumns",
+                "rocket-card": "@rocket/components/card.js::RocketCard",
+                "rocket-content-area": "@rocket/components/content-area.js::RocketContentArea",
+                "rocket-details": "@rocket/components/details.js::RocketDetails",
+                "rocket-drawer": "@rocket/components/drawer.js::RocketDrawer",
+                "rocket-feature-small": "@rocket/components/feature-small.js::RocketFeatureSmall",
+                "rocket-header": "@rocket/components/header.js::RocketHeader",
+                "rocket-header-scroll-menu": "@rocket/components/header-scroll-menu.js::RocketHeaderScrollMenu",
+                "rocket-icon": "@rocket/components/icon.js::RocketIcon",
+                "rocket-icon-card": "@rocket/components/icon-card.js::RocketIconCard",
+                "rocket-main": "@rocket/components/main.js::RocketMain",
+                "rocket-main-docs": "@rocket/components/main-docs.js::RocketMainDocs",
+                "rocket-opengraph-overview": "@rocket/components/open-graph-overview.js::RocketOpenGraphOverview",
+                "rocket-rotating-text": "@rocket/components/rotating-text.js::RocketRotatingText",
+                "rocket-social-link": "@rocket/components/social-link.js::RocketSocialLink",
+                "rocket-testimonial-small": "@rocket/components/testimonial-small.js::RocketTestimonialSmall",
+                "inline-notification": "@rocket/components/inline-notification.js::InlineNotification",
+                "permanent-notification": "@rocket/components/permanent-notification.js::PermanentNotification",
+                "rocket-search": "@rocket/search/search.js::RocketSearch",
+                "launch-home": "@rocket/launch/home.js::LaunchHome",
+                "launch-blog-overview": "@rocket/launch/blog-overview.js::LaunchBlogOverview",
+                "launch-blog-preview": "@rocket/launch/blog-preview.js::LaunchBlogPreview",
+                "launch-blog-details": "@rocket/launch/blog-details.js::LaunchBlogDetails",
+                "my-counter": "#src/components/MyCounter.js::MyCounter"
+              },
+              "needsLoader": true,
+              "subTitle": "Let's see what's cooking"
+            }
+          ]
+        },
+        {
+          "title": "Components | SL Design System",
+          "h1": "Components",
+          "headlinesWithId": [
+            {
+              "text": "Components",
+              "id": "components",
+              "level": 1
+            },
+            {
+              "text": "Components list",
+              "id": "components-list",
+              "level": 2
+            }
+          ],
+          "name": "Components",
+          "menuLinkText": "Components-1",
+          "url": "/docs/components/",
+          "outputRelativeFilePath": "docs/components/index.html",
+          "sourceRelativeFilePath": "10--docs/50--components/index.rocket.md",
+          "level": 2,
+          "components": {
+            "rocket-columns": "@rocket/components/columns.js::RocketColumns",
+            "rocket-card": "@rocket/components/card.js::RocketCard",
+            "rocket-content-area": "@rocket/components/content-area.js::RocketContentArea",
+            "rocket-details": "@rocket/components/details.js::RocketDetails",
+            "rocket-drawer": "@rocket/components/drawer.js::RocketDrawer",
+            "rocket-feature-small": "@rocket/components/feature-small.js::RocketFeatureSmall",
+            "rocket-header": "@rocket/components/header.js::RocketHeader",
+            "rocket-header-scroll-menu": "@rocket/components/header-scroll-menu.js::RocketHeaderScrollMenu",
+            "rocket-icon": "@rocket/components/icon.js::RocketIcon",
+            "rocket-icon-card": "@rocket/components/icon-card.js::RocketIconCard",
+            "rocket-main": "@rocket/components/main.js::RocketMain",
+            "rocket-main-docs": "@rocket/components/main-docs.js::RocketMainDocs",
+            "rocket-opengraph-overview": "@rocket/components/open-graph-overview.js::RocketOpenGraphOverview",
+            "rocket-rotating-text": "@rocket/components/rotating-text.js::RocketRotatingText",
+            "rocket-social-link": "@rocket/components/social-link.js::RocketSocialLink",
+            "rocket-testimonial-small": "@rocket/components/testimonial-small.js::RocketTestimonialSmall",
+            "inline-notification": "@rocket/components/inline-notification.js::InlineNotification",
+            "permanent-notification": "@rocket/components/permanent-notification.js::PermanentNotification",
+            "rocket-search": "@rocket/search/search.js::RocketSearch",
+            "launch-home": "@rocket/launch/home.js::LaunchHome",
+            "launch-blog-overview": "@rocket/launch/blog-overview.js::LaunchBlogOverview",
+            "launch-blog-preview": "@rocket/launch/blog-preview.js::LaunchBlogPreview",
+            "launch-blog-details": "@rocket/launch/blog-details.js::LaunchBlogDetails",
+            "my-counter": "#src/components/MyCounter.js::MyCounter"
+          },
+          "needsLoader": true,
+          "subTitle": "Welcome to the SL Design System...",
+          "children": [
+            {
+              "title": "Button | SL Design System",
+              "h1": "Button",
+              "headlinesWithId": [
+                {
+                  "text": "Button",
+                  "id": "button",
+                  "level": 1
+                },
+                {
+                  "text": "Buttons list",
+                  "id": "buttons-list",
+                  "level": 2
+                }
+              ],
+              "name": "Button",
+              "menuLinkText": "Button",
+              "url": "/docs/components/button/",
+              "outputRelativeFilePath": "docs/components/button/index.html",
+              "sourceRelativeFilePath": "10--docs/50--components/button.rocket.md",
+              "level": 3,
+              "components": {
+                "rocket-columns": "@rocket/components/columns.js::RocketColumns",
+                "rocket-card": "@rocket/components/card.js::RocketCard",
+                "rocket-content-area": "@rocket/components/content-area.js::RocketContentArea",
+                "rocket-details": "@rocket/components/details.js::RocketDetails",
+                "rocket-drawer": "@rocket/components/drawer.js::RocketDrawer",
+                "rocket-feature-small": "@rocket/components/feature-small.js::RocketFeatureSmall",
+                "rocket-header": "@rocket/components/header.js::RocketHeader",
+                "rocket-header-scroll-menu": "@rocket/components/header-scroll-menu.js::RocketHeaderScrollMenu",
+                "rocket-icon": "@rocket/components/icon.js::RocketIcon",
+                "rocket-icon-card": "@rocket/components/icon-card.js::RocketIconCard",
+                "rocket-main": "@rocket/components/main.js::RocketMain",
+                "rocket-main-docs": "@rocket/components/main-docs.js::RocketMainDocs",
+                "rocket-opengraph-overview": "@rocket/components/open-graph-overview.js::RocketOpenGraphOverview",
+                "rocket-rotating-text": "@rocket/components/rotating-text.js::RocketRotatingText",
+                "rocket-social-link": "@rocket/components/social-link.js::RocketSocialLink",
+                "rocket-testimonial-small": "@rocket/components/testimonial-small.js::RocketTestimonialSmall",
+                "inline-notification": "@rocket/components/inline-notification.js::InlineNotification",
+                "permanent-notification": "@rocket/components/permanent-notification.js::PermanentNotification",
+                "rocket-search": "@rocket/search/search.js::RocketSearch",
+                "launch-home": "@rocket/launch/home.js::LaunchHome",
+                "launch-blog-overview": "@rocket/launch/blog-overview.js::LaunchBlogOverview",
+                "launch-blog-preview": "@rocket/launch/blog-preview.js::LaunchBlogPreview",
+                "launch-blog-details": "@rocket/launch/blog-details.js::LaunchBlogDetails",
+                "my-counter": "#src/components/MyCounter.js::MyCounter"
+              },
+              "needsLoader": true,
+              "subTitle": "Welcome to the SL Design System..."
+            }
+          ]
+        },
+        {
+          "title": "SL DS Icons | SL Design System",
+          "h1": "SL DS Icons",
+          "headlinesWithId": [
+            {
+              "text": "SL DS Icons",
+              "id": "sl-ds-icons",
+              "level": 1
+            },
+            {
+              "text": "Icons list",
+              "id": "icons-list",
+              "level": 2
+            },
+            {
+              "text": "Icon component",
+              "id": "icon-component",
+              "level": 2
+            },
+            {
+              "text": "Figma usage",
+              "id": "figma-usage",
+              "level": 2
+            },
+            {
+              "text": "Life",
+              "id": "life",
+              "level": 4
+            }
+          ],
+          "name": "SL DS Icons",
+          "menuLinkText": "Icons",
+          "url": "/docs/icons/",
+          "outputRelativeFilePath": "docs/icons/index.html",
+          "sourceRelativeFilePath": "10--docs/60--icons/index.rocket.md",
+          "level": 2,
+          "components": {
+            "rocket-columns": "@rocket/components/columns.js::RocketColumns",
+            "rocket-card": "@rocket/components/card.js::RocketCard",
+            "rocket-content-area": "@rocket/components/content-area.js::RocketContentArea",
+            "rocket-details": "@rocket/components/details.js::RocketDetails",
+            "rocket-drawer": "@rocket/components/drawer.js::RocketDrawer",
+            "rocket-feature-small": "@rocket/components/feature-small.js::RocketFeatureSmall",
+            "rocket-header": "@rocket/components/header.js::RocketHeader",
+            "rocket-header-scroll-menu": "@rocket/components/header-scroll-menu.js::RocketHeaderScrollMenu",
+            "rocket-icon": "@rocket/components/icon.js::RocketIcon",
+            "rocket-icon-card": "@rocket/components/icon-card.js::RocketIconCard",
+            "rocket-main": "@rocket/components/main.js::RocketMain",
+            "rocket-main-docs": "@rocket/components/main-docs.js::RocketMainDocs",
+            "rocket-opengraph-overview": "@rocket/components/open-graph-overview.js::RocketOpenGraphOverview",
+            "rocket-rotating-text": "@rocket/components/rotating-text.js::RocketRotatingText",
+            "rocket-social-link": "@rocket/components/social-link.js::RocketSocialLink",
+            "rocket-testimonial-small": "@rocket/components/testimonial-small.js::RocketTestimonialSmall",
+            "inline-notification": "@rocket/components/inline-notification.js::InlineNotification",
+            "permanent-notification": "@rocket/components/permanent-notification.js::PermanentNotification",
+            "rocket-search": "@rocket/search/search.js::RocketSearch",
+            "launch-home": "@rocket/launch/home.js::LaunchHome",
+            "launch-blog-overview": "@rocket/launch/blog-overview.js::LaunchBlogOverview",
+            "launch-blog-preview": "@rocket/launch/blog-preview.js::LaunchBlogPreview",
+            "launch-blog-details": "@rocket/launch/blog-details.js::LaunchBlogDetails",
+            "my-counter": "#src/components/MyCounter.js::MyCounter"
+          },
+          "needsLoader": true,
+          "subTitle": "Welcome to the SL Design System..."
+        }
+      ]
+    },
+    {
+      "title": "Rocket Blog | SL Design System",
+      "h1": "Rocket Blog",
+      "name": "Rocket Blog",
+      "menuLinkText": "Blog",
+      "url": "/blog/",
+      "outputRelativeFilePath": "blog/index.html",
+      "sourceRelativeFilePath": "40--blog/index.rocket.js",
+      "level": 1,
+      "components": {
+        "rocket-columns": "@rocket/components/columns.js::RocketColumns",
+        "rocket-card": "@rocket/components/card.js::RocketCard",
+        "rocket-content-area": "@rocket/components/content-area.js::RocketContentArea",
+        "rocket-details": "@rocket/components/details.js::RocketDetails",
+        "rocket-drawer": "@rocket/components/drawer.js::RocketDrawer",
+        "rocket-feature-small": "@rocket/components/feature-small.js::RocketFeatureSmall",
+        "rocket-header": "@rocket/components/header.js::RocketHeader",
+        "rocket-header-scroll-menu": "@rocket/components/header-scroll-menu.js::RocketHeaderScrollMenu",
+        "rocket-icon": "@rocket/components/icon.js::RocketIcon",
+        "rocket-icon-card": "@rocket/components/icon-card.js::RocketIconCard",
+        "rocket-main": "@rocket/components/main.js::RocketMain",
+        "rocket-main-docs": "@rocket/components/main-docs.js::RocketMainDocs",
+        "rocket-opengraph-overview": "@rocket/components/open-graph-overview.js::RocketOpenGraphOverview",
+        "rocket-rotating-text": "@rocket/components/rotating-text.js::RocketRotatingText",
+        "rocket-social-link": "@rocket/components/social-link.js::RocketSocialLink",
+        "rocket-testimonial-small": "@rocket/components/testimonial-small.js::RocketTestimonialSmall",
+        "inline-notification": "@rocket/components/inline-notification.js::InlineNotification",
+        "permanent-notification": "@rocket/components/permanent-notification.js::PermanentNotification",
+        "rocket-search": "@rocket/search/search.js::RocketSearch",
+        "launch-home": "@rocket/launch/home.js::LaunchHome",
+        "launch-blog-overview": "@rocket/launch/blog-overview.js::LaunchBlogOverview",
+        "launch-blog-preview": "@rocket/launch/blog-preview.js::LaunchBlogPreview",
+        "launch-blog-details": "@rocket/launch/blog-details.js::LaunchBlogDetails",
+        "my-counter": "#src/components/MyCounter.js::MyCounter"
+      },
+      "needsLoader": true,
+      "children": [
+        {
+          "title": "First | Rocket",
+          "h1": "First",
+          "headlinesWithId": [
+            {
+              "text": "First",
+              "id": "first",
+              "level": 1
+            }
+          ],
+          "name": "First",
+          "menuLinkText": "First",
+          "url": "/blog/first/",
+          "outputRelativeFilePath": "blog/first/index.html",
+          "sourceRelativeFilePath": "40--blog/001--first/index.rocket.md",
+          "level": 2,
+          "authors": [
+            {
+              "firstName": "Thomas",
+              "lastName": "Allmer",
+              "twitter": "daKmoR",
+              "image": "https://pbs.twimg.com/profile_images/1070490946847105025/UBK4xPzU_400x400.jpg"
+            }
+          ],
+          "components": {
+            "rocket-columns": "@rocket/components/columns.js::RocketColumns",
+            "rocket-card": "@rocket/components/card.js::RocketCard",
+            "rocket-content-area": "@rocket/components/content-area.js::RocketContentArea",
+            "rocket-details": "@rocket/components/details.js::RocketDetails",
+            "rocket-drawer": "@rocket/components/drawer.js::RocketDrawer",
+            "rocket-feature-small": "@rocket/components/feature-small.js::RocketFeatureSmall",
+            "rocket-header": "@rocket/components/header.js::RocketHeader",
+            "rocket-header-scroll-menu": "@rocket/components/header-scroll-menu.js::RocketHeaderScrollMenu",
+            "rocket-icon": "@rocket/components/icon.js::RocketIcon",
+            "rocket-icon-card": "@rocket/components/icon-card.js::RocketIconCard",
+            "rocket-main": "@rocket/components/main.js::RocketMain",
+            "rocket-main-docs": "@rocket/components/main-docs.js::RocketMainDocs",
+            "rocket-opengraph-overview": "@rocket/components/open-graph-overview.js::RocketOpenGraphOverview",
+            "rocket-rotating-text": "@rocket/components/rotating-text.js::RocketRotatingText",
+            "rocket-social-link": "@rocket/components/social-link.js::RocketSocialLink",
+            "rocket-testimonial-small": "@rocket/components/testimonial-small.js::RocketTestimonialSmall",
+            "inline-notification": "@rocket/components/inline-notification.js::InlineNotification",
+            "permanent-notification": "@rocket/components/permanent-notification.js::PermanentNotification",
+            "rocket-search": "@rocket/search/search.js::RocketSearch",
+            "launch-home": "@rocket/launch/home.js::LaunchHome",
+            "launch-blog-overview": "@rocket/launch/blog-overview.js::LaunchBlogOverview",
+            "launch-blog-preview": "@rocket/launch/blog-preview.js::LaunchBlogPreview",
+            "launch-blog-details": "@rocket/launch/blog-details.js::LaunchBlogDetails",
+            "my-counter": "#src/components/MyCounter.js::MyCounter"
+          },
+          "description": "A tool that checks the validity of all your HTML links of your whole website.",
+          "needsLoader": true,
+          "publishDate": "2021-05-09T00:00:00.000Z",
+          "tags": [
+            "html",
+            "javascript",
+            "webdev",
+            "node"
+          ]
+        },
+        {
+          "title": "Second | Rocket",
+          "h1": "Second",
+          "headlinesWithId": [
+            {
+              "text": "Second",
+              "id": "second",
+              "level": 1
+            }
+          ],
+          "name": "Second",
+          "menuLinkText": "Second",
+          "url": "/blog/second/",
+          "outputRelativeFilePath": "blog/second/index.html",
+          "sourceRelativeFilePath": "40--blog/002--second/index.rocket.md",
+          "level": 2,
+          "authors": [
+            {
+              "firstName": "Thomas",
+              "lastName": "Allmer",
+              "twitter": "daKmoR",
+              "image": "https://pbs.twimg.com/profile_images/1070490946847105025/UBK4xPzU_400x400.jpg"
+            }
+          ],
+          "components": {
+            "rocket-columns": "@rocket/components/columns.js::RocketColumns",
+            "rocket-card": "@rocket/components/card.js::RocketCard",
+            "rocket-content-area": "@rocket/components/content-area.js::RocketContentArea",
+            "rocket-details": "@rocket/components/details.js::RocketDetails",
+            "rocket-drawer": "@rocket/components/drawer.js::RocketDrawer",
+            "rocket-feature-small": "@rocket/components/feature-small.js::RocketFeatureSmall",
+            "rocket-header": "@rocket/components/header.js::RocketHeader",
+            "rocket-header-scroll-menu": "@rocket/components/header-scroll-menu.js::RocketHeaderScrollMenu",
+            "rocket-icon": "@rocket/components/icon.js::RocketIcon",
+            "rocket-icon-card": "@rocket/components/icon-card.js::RocketIconCard",
+            "rocket-main": "@rocket/components/main.js::RocketMain",
+            "rocket-main-docs": "@rocket/components/main-docs.js::RocketMainDocs",
+            "rocket-opengraph-overview": "@rocket/components/open-graph-overview.js::RocketOpenGraphOverview",
+            "rocket-rotating-text": "@rocket/components/rotating-text.js::RocketRotatingText",
+            "rocket-social-link": "@rocket/components/social-link.js::RocketSocialLink",
+            "rocket-testimonial-small": "@rocket/components/testimonial-small.js::RocketTestimonialSmall",
+            "inline-notification": "@rocket/components/inline-notification.js::InlineNotification",
+            "permanent-notification": "@rocket/components/permanent-notification.js::PermanentNotification",
+            "rocket-search": "@rocket/search/search.js::RocketSearch",
+            "launch-home": "@rocket/launch/home.js::LaunchHome",
+            "launch-blog-overview": "@rocket/launch/blog-overview.js::LaunchBlogOverview",
+            "launch-blog-preview": "@rocket/launch/blog-preview.js::LaunchBlogPreview",
+            "launch-blog-details": "@rocket/launch/blog-details.js::LaunchBlogDetails",
+            "my-counter": "#src/components/MyCounter.js::MyCounter"
+          },
+          "description": "Let us take a look at Rocket which is sort of a nuxt/next equivalent but instead of vue/react it works best with web standards like custom elements, ES modules, template literals...",
+          "needsLoader": true,
+          "publishDate": "2022-03-23T00:00:00.000Z",
+          "tags": [
+            "rocket",
+            "javascript",
+            "node",
+            "SSG"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Getting Started | Rocket",
+      "h1": "Getting Started",
+      "headlinesWithId": [
+        {
+          "text": "Getting Started",
+          "id": "getting-started",
+          "level": 1
+        },
+        {
+          "text": "Design guidelines",
+          "id": "design-guidelines",
+          "level": 2
+        },
+        {
+          "text": "Accessibility",
+          "id": "accessibility",
+          "level": 3
+        }
+      ],
+      "name": "Getting Started",
+      "menuLinkText": "Getting started...",
+      "url": "/getting-started/",
+      "outputRelativeFilePath": "getting-started/index.html",
+      "sourceRelativeFilePath": "getting-started/index.rocket.md",
+      "level": 1,
+      "components": {
+        "rocket-columns": "@rocket/components/columns.js::RocketColumns",
+        "rocket-card": "@rocket/components/card.js::RocketCard",
+        "rocket-content-area": "@rocket/components/content-area.js::RocketContentArea",
+        "rocket-details": "@rocket/components/details.js::RocketDetails",
+        "rocket-drawer": "@rocket/components/drawer.js::RocketDrawer",
+        "rocket-feature-small": "@rocket/components/feature-small.js::RocketFeatureSmall",
+        "rocket-header": "@rocket/components/header.js::RocketHeader",
+        "rocket-header-scroll-menu": "@rocket/components/header-scroll-menu.js::RocketHeaderScrollMenu",
+        "rocket-icon": "@rocket/components/icon.js::RocketIcon",
+        "rocket-icon-card": "@rocket/components/icon-card.js::RocketIconCard",
+        "rocket-main": "@rocket/components/main.js::RocketMain",
+        "rocket-main-docs": "@rocket/components/main-docs.js::RocketMainDocs",
+        "rocket-opengraph-overview": "@rocket/components/open-graph-overview.js::RocketOpenGraphOverview",
+        "rocket-rotating-text": "@rocket/components/rotating-text.js::RocketRotatingText",
+        "rocket-social-link": "@rocket/components/social-link.js::RocketSocialLink",
+        "rocket-testimonial-small": "@rocket/components/testimonial-small.js::RocketTestimonialSmall",
+        "inline-notification": "@rocket/components/inline-notification.js::InlineNotification",
+        "permanent-notification": "@rocket/components/permanent-notification.js::PermanentNotification",
+        "rocket-search": "@rocket/search/search.js::RocketSearch",
+        "launch-home": "@rocket/launch/home.js::LaunchHome",
+        "launch-blog-overview": "@rocket/launch/blog-overview.js::LaunchBlogOverview",
+        "launch-blog-preview": "@rocket/launch/blog-preview.js::LaunchBlogPreview",
+        "launch-blog-details": "@rocket/launch/blog-details.js::LaunchBlogDetails",
+        "my-counter": "#src/components/MyCounter.js::MyCounter"
+      },
+      "needsLoader": true,
+      "subTitle": "Welcome to the SL Design System..."
+    },
+    {
+      "title": "What is new | Rocket",
+      "h1": "What is new",
+      "headlinesWithId": [
+        {
+          "text": "What is new",
+          "id": "what-is-new",
+          "level": 1
+        },
+        {
+          "text": "Latest articles",
+          "id": "latest-articles",
+          "level": 2
+        }
+      ],
+      "name": "What is new",
+      "menuLinkText": "What's new",
+      "url": "/what-is-new/",
+      "outputRelativeFilePath": "what-is-new/index.html",
+      "sourceRelativeFilePath": "what-is-new/index.rocket.md",
+      "level": 1,
+      "components": {
+        "rocket-columns": "@rocket/components/columns.js::RocketColumns",
+        "rocket-card": "@rocket/components/card.js::RocketCard",
+        "rocket-content-area": "@rocket/components/content-area.js::RocketContentArea",
+        "rocket-details": "@rocket/components/details.js::RocketDetails",
+        "rocket-drawer": "@rocket/components/drawer.js::RocketDrawer",
+        "rocket-feature-small": "@rocket/components/feature-small.js::RocketFeatureSmall",
+        "rocket-header": "@rocket/components/header.js::RocketHeader",
+        "rocket-header-scroll-menu": "@rocket/components/header-scroll-menu.js::RocketHeaderScrollMenu",
+        "rocket-icon": "@rocket/components/icon.js::RocketIcon",
+        "rocket-icon-card": "@rocket/components/icon-card.js::RocketIconCard",
+        "rocket-main": "@rocket/components/main.js::RocketMain",
+        "rocket-main-docs": "@rocket/components/main-docs.js::RocketMainDocs",
+        "rocket-opengraph-overview": "@rocket/components/open-graph-overview.js::RocketOpenGraphOverview",
+        "rocket-rotating-text": "@rocket/components/rotating-text.js::RocketRotatingText",
+        "rocket-social-link": "@rocket/components/social-link.js::RocketSocialLink",
+        "rocket-testimonial-small": "@rocket/components/testimonial-small.js::RocketTestimonialSmall",
+        "inline-notification": "@rocket/components/inline-notification.js::InlineNotification",
+        "permanent-notification": "@rocket/components/permanent-notification.js::PermanentNotification",
+        "rocket-search": "@rocket/search/search.js::RocketSearch",
+        "launch-home": "@rocket/launch/home.js::LaunchHome",
+        "launch-blog-overview": "@rocket/launch/blog-overview.js::LaunchBlogOverview",
+        "launch-blog-preview": "@rocket/launch/blog-preview.js::LaunchBlogPreview",
+        "launch-blog-details": "@rocket/launch/blog-details.js::LaunchBlogDetails",
+        "my-counter": "#src/components/MyCounter.js::MyCounter"
+      },
+      "needsLoader": true,
+      "subTitle": "Let's see what's cooking"
+    }
+  ]
+}

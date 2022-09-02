@@ -1,0 +1,283 @@
+{
+  "title": "SL Design System",
+  "h1": "SL Design System",
+  "name": "SL Design System",
+  "menuLinkText": "SL Design System",
+  "url": "/",
+  "outputRelativeFilePath": "index.html",
+  "sourceRelativeFilePath": "index.rocket.js",
+  "level": 0,
+  "components": {
+    "blog-author": "rocket-blog-starter/components/BlogAuthor::BlogAuthor",
+    "blog-author2": "rocket-blog-starter/components/BlogAuthor2::BlogAuthor2",
+    "blog-header": "rocket-blog-starter/components/BlogHeader::BlogHeader",
+    "blog-menu": "rocket-blog-starter/components/BlogMenu::BlogMenu",
+    "blog-post": "rocket-blog-starter/components/BlogPost::BlogPost",
+    "blog-post-preview": "rocket-blog-starter/components/BlogPostPreview::BlogPostPreview",
+    "site-footer": "rocket-blog-starter/components/SiteFooter::SiteFooter"
+  },
+  "description": "Welcome to Sanoma Learning Design System.",
+  "layout": false,
+  "permalink": "https://example.com/",
+  "children": [
+    {
+      "title": "",
+      "h1": "Components list",
+      "headlinesWithId": [
+        {
+          "text": "Components list",
+          "id": "components-list",
+          "level": 1
+        }
+      ],
+      "name": "Components list",
+      "menuLinkText": "Components",
+      "url": "/Components/",
+      "outputRelativeFilePath": "Components/index.html",
+      "sourceRelativeFilePath": "Components/index.rocket.md",
+      "level": 1,
+      "components": {
+        "blog-author": "rocket-blog-starter/components/BlogAuthor::BlogAuthor",
+        "blog-author2": "rocket-blog-starter/components/BlogAuthor2::BlogAuthor2",
+        "blog-header": "rocket-blog-starter/components/BlogHeader::BlogHeader",
+        "blog-menu": "rocket-blog-starter/components/BlogMenu::BlogMenu",
+        "blog-post": "rocket-blog-starter/components/BlogPost::BlogPost",
+        "blog-post-preview": "rocket-blog-starter/components/BlogPostPreview::BlogPostPreview",
+        "site-footer": "rocket-blog-starter/components/SiteFooter::SiteFooter"
+      },
+      "subTitle": "..."
+    },
+    {
+      "title": "",
+      "h1": "About",
+      "headlinesWithId": [
+        {
+          "text": "About",
+          "id": "about",
+          "level": 1
+        }
+      ],
+      "name": "About",
+      "menuLinkText": "About",
+      "url": "/about/",
+      "outputRelativeFilePath": "about/index.html",
+      "sourceRelativeFilePath": "about.rocket.md",
+      "level": 1,
+      "components": {
+        "blog-author": "rocket-blog-starter/components/BlogAuthor::BlogAuthor",
+        "blog-author2": "rocket-blog-starter/components/BlogAuthor2::BlogAuthor2",
+        "blog-header": "rocket-blog-starter/components/BlogHeader::BlogHeader",
+        "blog-menu": "rocket-blog-starter/components/BlogMenu::BlogMenu",
+        "blog-post": "rocket-blog-starter/components/BlogPost::BlogPost",
+        "blog-post-preview": "rocket-blog-starter/components/BlogPostPreview::BlogPostPreview",
+        "site-footer": "rocket-blog-starter/components/SiteFooter::SiteFooter"
+      }
+    },
+    {
+      "name": "blog/index.rocket.js",
+      "menuLinkText": "blog/index.rocket.js",
+      "url": "/blog/",
+      "outputRelativeFilePath": "blog/index.html",
+      "sourceRelativeFilePath": "blog/index.rocket.js",
+      "level": 1,
+      "components": {
+        "blog-author": "rocket-blog-starter/components/BlogAuthor::BlogAuthor",
+        "blog-author2": "rocket-blog-starter/components/BlogAuthor2::BlogAuthor2",
+        "blog-header": "rocket-blog-starter/components/BlogHeader::BlogHeader",
+        "blog-menu": "rocket-blog-starter/components/BlogMenu::BlogMenu",
+        "blog-post": "rocket-blog-starter/components/BlogPost::BlogPost",
+        "blog-post-preview": "rocket-blog-starter/components/BlogPostPreview::BlogPostPreview",
+        "site-footer": "rocket-blog-starter/components/SiteFooter::SiteFooter"
+      },
+      "layout": false,
+      "children": [
+        {
+          "title": "Hello world!",
+          "name": "Hello world!",
+          "menuLinkText": "Hello world!",
+          "url": "/blog/hello-world/",
+          "outputRelativeFilePath": "blog/hello-world/index.html",
+          "sourceRelativeFilePath": "blog/hello-world.rocket.md",
+          "level": 2,
+          "author": "Thomas Allmer (@daKmoR)",
+          "authorHref": "https://twitter.com/daKmoR",
+          "components": {
+            "blog-author": "rocket-blog-starter/components/BlogAuthor::BlogAuthor",
+            "blog-author2": "rocket-blog-starter/components/BlogAuthor2::BlogAuthor2",
+            "blog-header": "rocket-blog-starter/components/BlogHeader::BlogHeader",
+            "blog-menu": "rocket-blog-starter/components/BlogMenu::BlogMenu",
+            "blog-post": "rocket-blog-starter/components/BlogPost::BlogPost",
+            "blog-post-preview": "rocket-blog-starter/components/BlogPostPreview::BlogPostPreview",
+            "site-footer": "rocket-blog-starter/components/SiteFooter::SiteFooter"
+          },
+          "description": "Just a Hello World Post!",
+          "publishDate": "12 Sep 2021",
+          "value": 128
+        },
+        {
+          "title": "With Image!",
+          "name": "With Image!",
+          "menuLinkText": "With Image!",
+          "url": "/blog/with-image/",
+          "outputRelativeFilePath": "blog/with-image/index.html",
+          "sourceRelativeFilePath": "blog/with-image.rocket.md",
+          "level": 2,
+          "alt": "Liftoff Flames",
+          "author": "Thomas Allmer (@daKmoR)",
+          "authorHref": "https://twitter.com/daKmoR",
+          "components": {
+            "blog-author": "rocket-blog-starter/components/BlogAuthor::BlogAuthor",
+            "blog-author2": "rocket-blog-starter/components/BlogAuthor2::BlogAuthor2",
+            "blog-header": "rocket-blog-starter/components/BlogHeader::BlogHeader",
+            "blog-menu": "rocket-blog-starter/components/BlogMenu::BlogMenu",
+            "blog-post": "rocket-blog-starter/components/BlogPost::BlogPost",
+            "blog-post-preview": "rocket-blog-starter/components/BlogPostPreview::BlogPostPreview",
+            "site-footer": "rocket-blog-starter/components/SiteFooter::SiteFooter"
+          },
+          "description": "Now with an image!",
+          "heroImage": "./assets/liftoff-flames.jpg",
+          "publishDate": "13 Sep 2021",
+          "value": 128
+        }
+      ]
+    },
+    {
+      "title": "",
+      "h1": "Getting Started",
+      "headlinesWithId": [
+        {
+          "text": "Getting Started",
+          "id": "getting-started",
+          "level": 1
+        },
+        {
+          "text": "Design guidelines",
+          "id": "design-guidelines",
+          "level": 2
+        },
+        {
+          "text": "Accessibility",
+          "id": "accessibility",
+          "level": 3
+        }
+      ],
+      "name": "Getting Started",
+      "menuLinkText": "Getting started",
+      "url": "/getting-started/",
+      "outputRelativeFilePath": "getting-started/index.html",
+      "sourceRelativeFilePath": "getting-started/index.rocket.md",
+      "level": 1,
+      "components": {
+        "blog-author": "rocket-blog-starter/components/BlogAuthor::BlogAuthor",
+        "blog-author2": "rocket-blog-starter/components/BlogAuthor2::BlogAuthor2",
+        "blog-header": "rocket-blog-starter/components/BlogHeader::BlogHeader",
+        "blog-menu": "rocket-blog-starter/components/BlogMenu::BlogMenu",
+        "blog-post": "rocket-blog-starter/components/BlogPost::BlogPost",
+        "blog-post-preview": "rocket-blog-starter/components/BlogPostPreview::BlogPostPreview",
+        "site-footer": "rocket-blog-starter/components/SiteFooter::SiteFooter"
+      },
+      "subTitle": "Welcome to the SL Design System..."
+    },
+    {
+      "title": "",
+      "h1": "What is new",
+      "headlinesWithId": [
+        {
+          "text": "What is new",
+          "id": "what-is-new",
+          "level": 1
+        },
+        {
+          "text": "Latest articles",
+          "id": "latest-articles",
+          "level": 2
+        }
+      ],
+      "name": "What is new",
+      "menuLinkText": "What's new",
+      "url": "/what-is-new/",
+      "outputRelativeFilePath": "what-is-new/index.html",
+      "sourceRelativeFilePath": "what-is-new/index.rocket.md",
+      "level": 1,
+      "components": {
+        "blog-author": "rocket-blog-starter/components/BlogAuthor::BlogAuthor",
+        "blog-author2": "rocket-blog-starter/components/BlogAuthor2::BlogAuthor2",
+        "blog-header": "rocket-blog-starter/components/BlogHeader::BlogHeader",
+        "blog-menu": "rocket-blog-starter/components/BlogMenu::BlogMenu",
+        "blog-post": "rocket-blog-starter/components/BlogPost::BlogPost",
+        "blog-post-preview": "rocket-blog-starter/components/BlogPostPreview::BlogPostPreview",
+        "site-footer": "rocket-blog-starter/components/SiteFooter::SiteFooter"
+      },
+      "subTitle": "Let's see what's cooking"
+    },
+    {
+      "title": "",
+      "h1": "What is new",
+      "headlinesWithId": [
+        {
+          "text": "What is new",
+          "id": "what-is-new",
+          "level": 1
+        },
+        {
+          "text": "Latest articles",
+          "id": "latest-articles",
+          "level": 2
+        }
+      ],
+      "name": "What is new",
+      "menuLinkText": "What's new",
+      "url": "/what-is-new/",
+      "outputRelativeFilePath": "what-is-new/index.html",
+      "sourceRelativeFilePath": "20--what-is-new/index.rocket.md",
+      "level": 1,
+      "components": {
+        "blog-author": "rocket-blog-starter/components/BlogAuthor::BlogAuthor",
+        "blog-author2": "rocket-blog-starter/components/BlogAuthor2::BlogAuthor2",
+        "blog-header": "rocket-blog-starter/components/BlogHeader::BlogHeader",
+        "blog-menu": "rocket-blog-starter/components/BlogMenu::BlogMenu",
+        "blog-post": "rocket-blog-starter/components/BlogPost::BlogPost",
+        "blog-post-preview": "rocket-blog-starter/components/BlogPostPreview::BlogPostPreview",
+        "site-footer": "rocket-blog-starter/components/SiteFooter::SiteFooter"
+      },
+      "subTitle": "Let's see what's cooking"
+    },
+    {
+      "title": "",
+      "h1": "Getting Started",
+      "headlinesWithId": [
+        {
+          "text": "Getting Started",
+          "id": "getting-started",
+          "level": 1
+        },
+        {
+          "text": "Design guidelines",
+          "id": "design-guidelines",
+          "level": 2
+        },
+        {
+          "text": "Accessibility",
+          "id": "accessibility",
+          "level": 3
+        }
+      ],
+      "name": "Getting Started",
+      "menuLinkText": "Getting started",
+      "url": "/getting-started/",
+      "outputRelativeFilePath": "getting-started/index.html",
+      "sourceRelativeFilePath": "10--getting-started/index.rocket.md",
+      "level": 1,
+      "components": {
+        "blog-author": "rocket-blog-starter/components/BlogAuthor::BlogAuthor",
+        "blog-author2": "rocket-blog-starter/components/BlogAuthor2::BlogAuthor2",
+        "blog-header": "rocket-blog-starter/components/BlogHeader::BlogHeader",
+        "blog-menu": "rocket-blog-starter/components/BlogMenu::BlogMenu",
+        "blog-post": "rocket-blog-starter/components/BlogPost::BlogPost",
+        "blog-post-preview": "rocket-blog-starter/components/BlogPostPreview::BlogPostPreview",
+        "site-footer": "rocket-blog-starter/components/SiteFooter::SiteFooter"
+      },
+      "subTitle": "Welcome to the SL Design System..."
+    }
+  ]
+}

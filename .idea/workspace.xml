@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4516d84c-907c-49d7-ac05-21d52cafb885" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/remote-targets.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ds_rocket_docs.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rocket-01-hydration-starter/site/src/layouts/layoutData.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rocket-02-blog-starter/site/pages/10--getting-started/index.rocket.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rocket-02-blog-starter/site/pages/20--what-is-new/index.rocket.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rocket-02-blog-starter/site/pages/30--Components/10--button.rocket.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rocket-02-blog-starter/site/pages/30--Components/index.rocket.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rocket-02-blog-starter/site/pages/40--icons/index.rocket.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rocket-02-blog-starter/site/src/components/BlogAuthor2.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rocket-02-blog-starter/site/src/components/BlogMenu.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rocket-02-blog-starter/site/src/layouts/DSMenu.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rocket-51-docs-theme-launch/.github/workflows/github-build-and-deploy-rocket-action.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rocket-51-docs-theme-launch/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rocket-51-docs-theme-launch/.vscode/settings.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rocket-51-docs-theme-launch/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rocket-51-docs-theme-launch/config/rocket.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rocket-51-docs-theme-launch/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rocket-51-docs-theme-launch/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rocket-51-docs-theme-launch/site/pages/10--docs/10--first-category/10--getting-started.rocket.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rocket-51-docs-theme-launch/site/pages/10--docs/10--first-category/index.rocket.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rocket-51-docs-theme-launch/site/pages/10--docs/20--getting-started/10--about.rocket.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rocket-51-docs-theme-launch/site/pages/10--docs/20--getting-started/index.rocket.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rocket-51-docs-theme-launch/site/pages/10--docs/30--what-is-new/10--whats-new.rocket.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rocket-51-docs-theme-launch/site/pages/10--docs/30--what-is-new/index.rocket.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rocket-51-docs-theme-launch/site/pages/10--docs/50--components/button.rocket.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rocket-51-docs-theme-launch/site/pages/10--docs/50--components/index.rocket.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rocket-51-docs-theme-launch/site/pages/10--docs/60--icons/index.rocket.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rocket-51-docs-theme-launch/site/pages/10--docs/index.rocket.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rocket-51-docs-theme-launch/site/pages/40--blog/001--first/index.rocket.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rocket-51-docs-theme-launch/site/pages/40--blog/002--second/index.rocket.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rocket-51-docs-theme-launch/site/pages/40--blog/002--second/intro.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rocket-51-docs-theme-launch/site/pages/40--blog/index.rocket.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rocket-51-docs-theme-launch/site/pages/40--blog/recursive.data.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rocket-51-docs-theme-launch/site/pages/404.html.rocket.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rocket-51-docs-theme-launch/site/pages/getting-started/index.rocket.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rocket-51-docs-theme-launch/site/pages/index.rocket.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rocket-51-docs-theme-launch/site/pages/pageTreeData.rocketGenerated.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rocket-51-docs-theme-launch/site/pages/recursive.data.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rocket-51-docs-theme-launch/site/pages/simulator.rocket.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rocket-51-docs-theme-launch/site/pages/what-is-new/index.rocket.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rocket-51-docs-theme-launch/site/public/android-chrome-192x192.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rocket-51-docs-theme-launch/site/public/android-chrome-512x512.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rocket-51-docs-theme-launch/site/public/apple-touch-icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rocket-51-docs-theme-launch/site/public/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rocket-51-docs-theme-launch/site/public/icon.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rocket-51-docs-theme-launch/site/public/site.webmanifest" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rocket-51-docs-theme-launch/site/src/assets/home-background.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rocket-51-docs-theme-launch/site/src/assets/rocket-logo-dark-with-text-below.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rocket-51-docs-theme-launch/site/src/assets/rocket-logo-dark-with-text.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rocket-51-docs-theme-launch/site/src/assets/rocket-logo-dark.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rocket-51-docs-theme-launch/site/src/assets/rocket-logo-light-with-text-below.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rocket-51-docs-theme-launch/site/src/assets/rocket-logo-light-with-text.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rocket-51-docs-theme-launch/site/src/assets/rocket-logo-light.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rocket-51-docs-theme-launch/site/src/data/authors.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rocket-51-docs-theme-launch/site/src/layouts/DSMenu.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rocket-51-docs-theme-launch/site/src/layouts/LayoutPage.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rocket-51-docs-theme-launch/site/src/layouts/layoutData.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rocket-51-docs-theme-launch/site/src/parts/baseHead.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rocket-51-docs-theme-launch/site/src/styles/global.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rocket-51-docs-theme-launch/tsconfig.json" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="package.json" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2DZc1TfzDcXXwQmsrZKHpCuIJWz" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/a.lach/IdeaProjects/ds_rocket_docs",
+    "nodejs_interpreter_path": "wsl://Ubuntu@/home/a_lach/.nvm/versions/node/v16.17.0/bin/node",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "settings.nodejs",
+    "ts.external.directory.path": "C:\\Program Files\\JetBrains\\IntelliJ IDEA 2022.2\\plugins\\JavaScriptLanguage\\jsLanguageServicesImpl\\external"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\a.lach\IdeaProjects\ds_rocket_docs\rocket-02-blog-starter\site\pages\40--icons" />
+      <recent name="C:\Users\a.lach\IdeaProjects\ds_rocket_docs\rocket-02-blog-starter\site\pages\Components" />
+      <recent name="C:\Users\a.lach\IdeaProjects\ds_rocket_docs\rocket-51-docs-theme-launch\site\src" />
+      <recent name="C:\Users\a.lach\IdeaProjects\ds_rocket_docs\rocket-51-docs-theme-launch\site\src\layouts" />
+      <recent name="C:\Users\a.lach\IdeaProjects\ds_rocket_docs\rocket-51-docs-theme-launch\site\pages\10--docs\50--components" />
+    </key>
+  </component>
+  <component name="RunManager" selected="npm.dev">
+    <configuration name="build (1)" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/rocket-51-docs-theme-launch/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="build" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="build" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/rocket-02-blog-starter/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="build" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="dev (2)" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/rocket-02-blog-starter/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="dev" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="dev (3)" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/rocket-50-landing-theme-spark/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="dev" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="dev" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/rocket-51-docs-theme-launch/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="dev" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="npm.dev" />
+        <item itemvalue="npm.dev (2)" />
+        <item itemvalue="npm.build" />
+        <item itemvalue="npm.build (1)" />
+        <item itemvalue="npm.dev (3)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4516d84c-907c-49d7-ac05-21d52cafb885" name="Changes" comment="" />
+      <created>1660909839008</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1660909839008</updated>
+      <workItem from="1660909840407" duration="7615000" />
+      <workItem from="1661147967441" duration="23170000" />
+      <workItem from="1661234922046" duration="27682000" />
+      <workItem from="1661321101793" duration="9338000" />
+      <workItem from="1661333669420" duration="16159000" />
+      <workItem from="1661406135201" duration="22023000" />
+      <workItem from="1661493572880" duration="6398000" />
+      <workItem from="1661753006974" duration="4149000" />
+      <workItem from="1661839569599" duration="639000" />
+      <workItem from="1662103923189" duration="566000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>

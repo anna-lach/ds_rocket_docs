@@ -1,0 +1,11 @@
+:root {
+  --theme-bg: #ffffff;
+  --theme-on-bg: #000000;
+  --theme-primary: darkblue;
+  /*--theme-on-primary: #ffffff;*/
+  --primary-color: darkblue; //#e63946;
+}
+
+html {
+  --primary-color: darkblue;
+}
